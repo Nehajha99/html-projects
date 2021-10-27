@@ -1,0 +1,9 @@
+.nav{
+    height: 57px;
+    background-color: blue;
+    display: flex;
+    
+}
+.nav-name{
+    color: white;
+}
